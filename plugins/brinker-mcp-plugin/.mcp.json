@@ -2,7 +2,7 @@
   "mcpServers": {
     "brinker": {
       "type": "http",
-      "url": "https://1frxzpgh24.execute-api.us-east-1.amazonaws.com/Prod/mcp",
+      "url": "https://mcp.brinker.ai",
       "headers": {
         "Authorization": "${BRINKER_API_KEY}"
       }
