@@ -2,7 +2,7 @@
   "mcpServers": {
     "brinker": {
       "type": "http",
-      "url": "https://mcp.brinker.ai",
+      "url": "https://mcp.brinker.ai/mcp",
       "headers": {
         "Authorization": "${BRINKER_API_KEY}"
       }
