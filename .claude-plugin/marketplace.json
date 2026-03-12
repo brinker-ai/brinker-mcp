@@ -1,0 +1,13 @@
+{
+  "name": "brinker-mcp",
+  "owner": {
+    "name": "Brinker"
+  },
+  "plugins": [
+    {
+      "name": "brinker-mcp-plugin",
+      "source": "./plugins/brinker-mcp-plugin",
+      "description": "Allows you to use the Brinker MCP server"
+    }
+  ]
+}
