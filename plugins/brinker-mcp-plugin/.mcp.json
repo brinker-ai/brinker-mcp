@@ -2,7 +2,10 @@
   "mcpServers": {
     "brinker": {
       "type": "http",
-      "url": "https://mcp.brinker.ai/mcp"
+      "url": "https://mcp.brinker.ai/mcp",
+      "oauth": {
+        "authServerMetadataUrl": "https://auth0.brinker.ai/.well-known/openid-configuration"
+      }
     }
   }
 }
